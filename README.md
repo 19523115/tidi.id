@@ -1,5 +1,5 @@
-tidy.id
-tidy.id: tidier parking!
+Tidi.id
+Tidy.id: tidier parking!
 
 About
 tidy.id plans to make a faster and more secure parking system by using a web-based login interface, number-plate to account assigning, and many more.
